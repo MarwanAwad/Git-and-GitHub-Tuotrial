@@ -1,0 +1,6 @@
+Todo List
+1. Know Git Hub
+2. play with the essential command of git
+3. create a file
+4. add file to tracking
+5. commit the files
